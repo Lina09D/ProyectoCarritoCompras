@@ -1,0 +1,35 @@
+[
+  {
+    "id": 0,
+    "nombre": "MORAS",
+    "imageUrl": "imagen/MORAS.jpg",
+    "precio": "$ 3.500",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id": 1,
+    "nombre": "FRESAS",
+    "imageUrl": "imagen/FRESAS.jpg",
+    "precio": "$ 5.000",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id":2,
+    "nombre": "LECHE",
+    "imageUrl": "imagen/LECHE.jpg",
+    "precio": "$ 2.500",
+    "cantidad":10,
+    "isAdd":false
+  },
+  {
+    "id": 3,
+    "nombre": "QUESO",
+    "imageUrl": "imagen/QUESO.jpg",
+    "precio": "$ 6.000",
+    "cantidad":10,
+    "isAdd":false
+  }
+
+]
